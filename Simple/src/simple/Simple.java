@@ -7,6 +7,9 @@ public class Simple {
 		int m=1;
 		int s=2;
 		System.out.println("hello ppls");
+		int n=1;
+		int q=2;
+		System.out.println("divya");
 	}
 
 }
